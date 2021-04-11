@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ClientService" />
+        <module name="eureka" />
+        <module name="ExcelService" />
+        <module name="eureka-sever-7003" />
+        <module name="PDFService" />
+        <module name="zuul-9000" />
+        <module name="eureka-sever-7002" />
+        <module name="eureka-sever-7001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="13">
+      <module name="ClientService" target="11" />
+      <module name="eureka" target="13" />
+      <module name="eureka-sever-7001" target="13" />
+      <module name="eureka-sever-7002" target="13" />
+      <module name="eureka-sever-7003" target="13" />
+      <module name="ExcelService" target="13" />
+      <module name="PDFService" target="13" />
+      <module name="reporting_system_aws" target="1.5" />
+      <module name="zuul-9000" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ClientService" options="-parameters" />
+      <module name="ExcelService" options="-parameters" />
+      <module name="PDFService" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+    </option>
+  </component>
+  <component name="TypeScriptCompiler">
+    <option name="useService" value="false" />
+  </component>
+</project>

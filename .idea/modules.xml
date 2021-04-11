@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClientService/ClientService.iml" filepath="$PROJECT_DIR$/ClientService/ClientService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExcelService/ExcelService.iml" filepath="$PROJECT_DIR$/ExcelService/ExcelService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PDFService/PDFService.iml" filepath="$PROJECT_DIR$/PDFService/PDFService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-sever-5000/eureka.iml" filepath="$PROJECT_DIR$/Eureka-sever-5000/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-sever-7001/eureka-sever-7001.iml" filepath="$PROJECT_DIR$/eureka-sever-7001/eureka-sever-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-sever-7002/eureka-sever-7002.iml" filepath="$PROJECT_DIR$/eureka-sever-7002/eureka-sever-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-sever-7003/eureka-sever-7003.iml" filepath="$PROJECT_DIR$/eureka-sever-7003/eureka-sever-7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reporting_system_aws.iml" filepath="$PROJECT_DIR$/reporting_system_aws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-9000/zuul-9000.iml" filepath="$PROJECT_DIR$/zuul-9000/zuul-9000.iml" />
+    </modules>
+  </component>
+</project>

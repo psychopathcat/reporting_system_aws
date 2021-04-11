@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.antra.evaluation.reporting_system.APITest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 1, Time elapsed: 2.563 s <<< FAILURE! - in com.antra.evaluation.reporting_system.APITest
+testFileDownload  Time elapsed: 0.01 s  <<< ERROR!
+java.io.FileNotFoundException: temp.xlsx (???????????)
+	at com.antra.evaluation.reporting_system.APITest.testFileDownload(APITest.java:33)
+

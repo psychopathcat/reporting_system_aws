@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka-sever-5000/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/112/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka-sever-2000/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka-sever-3000/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka-sever-7000/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" project-jdk-name="adopt-openjdk-13" project-jdk-type="JavaSDK" />
+</project>
